@@ -1,0 +1,15 @@
+body {
+	margin: 20px;
+	padding: 20px;
+}
+
+.jumbotron {
+	text-align: center;
+	background-color: #20315a;
+	color: white;
+}
+
+/*.panel-heading {
+	background-color: #20315a;
+	color: white;*/
+}

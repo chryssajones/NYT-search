@@ -1,6 +1,5 @@
 body {
-	margin: 20px;
-	padding: 20px;
+	margin: 40px;
 }
 
 .jumbotron {
@@ -9,7 +8,10 @@ body {
 	color: white;
 }
 
-/*.panel-heading {
-	background-color: #20315a;
-	color: white;*/
+img {
+	width: 75%;
+}
+
+h1 {
+	margin: 0px;
 }

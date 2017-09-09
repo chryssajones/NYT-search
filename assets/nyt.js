@@ -44,7 +44,7 @@ $("#search-button").on("click", function() {
         $("#results").append(articleDiv);
       }
     }).fail(function(err) {
-          // throw err;
+      console.log(err);
     });
 
 

@@ -1,11 +1,12 @@
 body {
-	margin: 40px;
+	margin: 20px;
 }
 
 .jumbotron {
 	text-align: center;
 	background-color: #20315a;
 	color: white;
+	padding: 20px;
 }
 
 img {
